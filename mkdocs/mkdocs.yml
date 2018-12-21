@@ -1,0 +1,5 @@
+site_name: Yu Peng's Blog
+repo_url: https://github.com/MrAnderson1989
+site_author: Yu Peng
+dev_addr: 127.0.0.1:2686
+theme: slate
